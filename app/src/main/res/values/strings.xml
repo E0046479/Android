@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="item1_value">Item1 spelling</string>
+    <string name="item2_value">Item2 spelling</string>
+    <string name="item3_value">Item3 spelling</string>
+</resources>

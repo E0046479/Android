@@ -1,7 +1,17 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Demo1</string>
+    <string name="click_me">Click Me</string>
+    <string name="next">Next</string>
+    <string name="customdialogtitle">Custom Title</string>
+    <string name="sayyes">YES selected</string>
+    <string name="sayno">NO selected</string>
     <string name="item1_value">Item1 spelling</string>
     <string name="item2_value">Item2 spelling</string>
     <string name="item3_value">Item3 spelling</string>
+    <string name="context1_value">Context1 spelling</string>
+    <string name="context2_value">Context2 spelling</string>
+    <string name="change_settings">Change settings</string>
+    <string name="confirm_question">Are you sure you want to change settings?</string>
+    <string name="heavy_work">Heavy Work</string>
+    <string name="please_wait">"Please wait ..."</string>
 </resources>
